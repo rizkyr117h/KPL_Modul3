@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\Modul3\\modul3_1302203122\\modul3_1302203122\\modul3_1302203122.csproj": {}
+    "C:\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\Modul3\\KPL_Modul3\\modul3_1302203122\\modul3_1302203122\\modul3_1302203122.csproj": {}
   },
   "projects": {
-    "C:\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\Modul3\\modul3_1302203122\\modul3_1302203122\\modul3_1302203122.csproj": {
+    "C:\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\Modul3\\KPL_Modul3\\modul3_1302203122\\modul3_1302203122\\modul3_1302203122.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\Modul3\\modul3_1302203122\\modul3_1302203122\\modul3_1302203122.csproj",
+        "projectUniqueName": "C:\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\Modul3\\KPL_Modul3\\modul3_1302203122\\modul3_1302203122\\modul3_1302203122.csproj",
         "projectName": "modul3_1302203122",
-        "projectPath": "C:\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\Modul3\\modul3_1302203122\\modul3_1302203122\\modul3_1302203122.csproj",
+        "projectPath": "C:\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\Modul3\\KPL_Modul3\\modul3_1302203122\\modul3_1302203122\\modul3_1302203122.csproj",
         "packagesPath": "C:\\Users\\rizky\\.nuget\\packages\\",
-        "outputPath": "C:\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\Modul3\\modul3_1302203122\\modul3_1302203122\\obj\\",
+        "outputPath": "C:\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\Modul3\\KPL_Modul3\\modul3_1302203122\\modul3_1302203122\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rizky\\AppData\\Roaming\\NuGet\\NuGet.Config",
